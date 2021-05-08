@@ -1,3 +1,4 @@
+<div align="center">
 <br />
 
 <a href="https://www.linkedin.com/in/chris-minsik-son/" target="_blank">
