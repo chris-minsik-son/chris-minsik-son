@@ -32,3 +32,14 @@
 * <b><u>Interests:</b></u> Machine Learning, Data Structures and Algorithms, Software Construction
 
 <hr>
+
+<h3 align="center">
+📈 My Github Stats</h3>
+<h3 align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chris-minsik-son&show_icons=true&theme=vue" alt="Chris' GitHub Stats" />
+</a>
+
+<br />
+
+
+<hr>
