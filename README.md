@@ -4,7 +4,7 @@
 <h3 align="center">
 👀 About Me</h3>
 
-👋 Hello! My name is Chris and I am 19 years old living in Sydney, Australia
+👋 Hello! My name is Chris and I am 20 years old living in Sydney, Australia
 <br />
 🎓 Completing a Computational Major in Data Science and Decisions at the <a href="https://www.unsw.edu.au/"> <b>University of New South Wales (UNSW)</b></a>
 <br />
