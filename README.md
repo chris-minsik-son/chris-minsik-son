@@ -25,11 +25,11 @@
 <h3 align="center">
 🛠 Languages and Tools</h3>
 <p align="left">
-* <b><u>Languages:</b></u> C, C++, RStudio, Shell Script (e.g. Bash, Dash), Perl, SQL
+* <b><u>Languages:</b></u> C, C++, SQL, Python, RStudio, Shell (e.g. Bash, Dash), Perl
 <br />
-* <b><u>Tools/Version Control:</b></u> Visual Studio Code, Microsoft Excel, Git, Github
+* <b><u>Tools/Version Control:</b></u> Visual Studio Code, Microsoft Excel, Git, Git Version Control
 <br />
-* <b><u>Interests:</b></u> Machine Learning, Data Structures and Algorithms, Software Construction
+* <b><u>Interests:</b></u> Machine Learning, Data Analysis and Visualisation, Data Structures and Algorithms
 
 <hr>
 
