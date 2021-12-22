@@ -8,7 +8,7 @@
 <br />
 🎓 Completing a Computational Major in Data Science and Decisions at the <a href="https://www.unsw.edu.au/"> <b>University of New South Wales (UNSW)</b></a>
 <br />
-🌱 Some of my hobbies include programming, thinking deeply about complex problems and playing volleyball!
+🌱 Fun fact, I like to explore datasets and in particular enjoy machine learning. I also like to play volleyball and the guitar :)
 <br />
 ⚡ Check out my <a href="https://www.linkedin.com/in/chris-minsik-son/"> <b>LinkedIn Profile</b></a> or some of my recent work from my <a href="https://github.com/chris-minsik-son?tab=repositories"> <b>Github Repository</b></a>
 <br />
