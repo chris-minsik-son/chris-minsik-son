@@ -48,6 +48,3 @@
 <h3 align="center">
 📂 My Repositories </h3>
 <h3 align="center">
-
-  
-<hr>
