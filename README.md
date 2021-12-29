@@ -8,9 +8,9 @@
 <br />
 🎓 Completing a Computational Major in Data Science and Decisions at the <a href="https://www.unsw.edu.au/"> <b>University of New South Wales</b></a>
 <br />
-🌱 Fun fact, I like to explore datasets and in particular, I really enjoy machine learning. And of course, I can't get enough of volleyball!
+🌱 I like to explore relationships between datasets and translate numbers into stories. In the age of big data, stories become actionable solutions and strategies for businesses, and I take pride in making this data accessible to people.
 <br />
-⚡ Check out my <a href="https://www.linkedin.com/in/chris-minsik-son/"> <b>LinkedIn Profile</b></a> or some of my recent work from my <a href="https://github.com/chris-minsik-son?tab=repositories"> <b>Github Repository</b></a>
+⚡ You can check out my <a href="https://www.linkedin.com/in/chris-minsik-son/"> <b>LinkedIn Profile</b></a> or some of my recent work from my <a href="https://github.com/chris-minsik-son?tab=repositories"> <b>Github Repository</b></a>
 <br />
 💬 Feel free to ask questions, I'm always happy to help!
 <br />
