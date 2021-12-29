@@ -12,14 +12,12 @@
 &nbsp; &nbsp; &nbsp; for businesses, and I take pride in making this data accessible to people.
 <br />
 ⚡ You can check out my <a href="https://www.linkedin.com/in/chris-minsik-son/"> <b>LinkedIn Profile</b></a> or some of my recent work from my <a href="https://github.com/chris-minsik-son?tab=repositories"> <b>Github Repository</b></a>
-
-<h3 align="center">
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
-<p align="left">
+<br />
 💬 Feel free to ask questions, I'm always happy to help!
 <br />
 📫 How to reach me -> <a href="mailto:chris.minsik.son@gmail.com"> <b>chris.minsik.son@gmail.com</b></a>
+<h3 align="center">
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 <hr>
 
