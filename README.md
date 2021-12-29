@@ -8,7 +8,7 @@
 <br />
 🎓 Completing a Computational Major in Data Science and Decisions at the <a href="https://www.unsw.edu.au/"> <b>University of New South Wales</b></a>
 <br />
-🌱 I like to explore relationships between datasets and translate numbers into stories. In the age of big data, stories become actionable solutions and strategies for businesses, and I take pride in making this data accessible to people.
+🌱 I like to explore raw datasets and translate numbers into stories. In the age of big data, stories become actionable solutions and strategies for businesses, and I take pride in making this data accessible to people.
 <br />
 ⚡ You can check out my <a href="https://www.linkedin.com/in/chris-minsik-son/"> <b>LinkedIn Profile</b></a> or some of my recent work from my <a href="https://github.com/chris-minsik-son?tab=repositories"> <b>Github Repository</b></a>
 <br />
