@@ -30,7 +30,7 @@
 <br />
 * <b><u>Tools/Version Control:</b></u> Tableau, Git Version Control
 <br />
-* <b><u>Interests:</b></u> Machine Learning, Data Analysis, Data Visualisation, Data Structures and Algorithms
+* <b><u>Interests:</b></u> Machine Learning, Data Analysis, Data Visualisation, SQL, Data Structures and Algorithms
 
 <hr>
 
