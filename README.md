@@ -37,7 +37,7 @@
 <h3 align="center">
 📅 Hobbies
 <p align="left">
-* Playing Volleyball
+* <b><u>Playing Volleyball<b><u>
   <br />
 * Coding while watching Netflix
   <br />
