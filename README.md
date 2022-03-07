@@ -35,6 +35,16 @@
 <hr>
 
 <h3 align="center">
+📅 Hobbies
+<p align="left">
+* Playing Volleyball
+* Coding while watching Netflix
+* Listening to Korean Hip-Hop
+* Machine Learning and SQL
+  
+<hr>
+  
+<h3 align="center">
 📈 My Github Stats</h3>
 <h3 align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chris-minsik-son&show_icons=true&theme=vue" alt="Chris' GitHub Stats" />
