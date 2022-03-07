@@ -38,8 +38,11 @@
 📅 Hobbies
 <p align="left">
 * Playing Volleyball
+  <br />
 * Coding while watching Netflix
+  <br />
 * Listening to Korean Hip-Hop
+  <br />
 * Machine Learning and SQL
   
 <hr>
