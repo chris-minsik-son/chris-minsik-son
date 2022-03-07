@@ -24,7 +24,7 @@
 <hr>
 
 <h3 align="center">
-🛠 Languages and Tools</h3>
+🛠 Languages and Tools </h3>
 <p align="left">
 * <b><u>Languages:</b></u> SQL, Python, R, C/C++, Shell (e.g. Bash, Dash), Perl, Microsoft Excel
 <br />
@@ -35,9 +35,9 @@
 <hr>
 
 <h3 align="center">
-📅 Hobbies
+📅 Hobbies </h3>
 <p align="left">
-* <b><u>Playing Volleyball<b><u>
+* Playing Volleyball
   <br />
 * Coding while watching Netflix
   <br />
@@ -48,7 +48,7 @@
 <hr>
   
 <h3 align="center">
-📈 My Github Stats</h3>
+📈 My Github Stats </h3>
 <h3 align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chris-minsik-son&show_icons=true&theme=vue" alt="Chris' GitHub Stats" />
 </a>
