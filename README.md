@@ -26,9 +26,9 @@
 <h3 align="center">
 🛠 Languages and Tools </h3>
 <p align="left">
-* <b><u>Languages:</b></u> SQL, Python, R, C/C++, Shell (e.g. Bash, Dash), Perl, Microsoft Excel
+* <b><u>Languages:</b></u> SQL, Python, R, C/C++, Shell, Perl, Microsoft Excel
 <br />
-* <b><u>Tools/Version Control:</b></u> Tableau, Git Version Control
+* <b><u>Tools/Version Control:</b></u> Tableau, LaTeX, Git Version Control
 <br />
 * <b><u>Interests:</b></u> Machine Learning, Data Analysis, Data Visualisation, SQL, Data Structures and Algorithms
 
