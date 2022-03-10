@@ -26,24 +26,24 @@
 <h3 align="center">
 🛠 Languages and Tools </h3>
 <p align="left">
-* <b><u>Languages:</b></u> SQL, Python, R, C/C++, Shell, Perl, Microsoft Excel
+• <b><u>Languages:</b></u> SQL, Python, R, C/C++, Shell, Perl, Microsoft Excel
 <br />
-* <b><u>Tools/Version Control:</b></u> Tableau, LaTeX, Git Version Control
+• <b><u>Tools/Version Control:</b></u> Tableau, LaTeX, Git Version Control
 <br />
-* <b><u>Interests:</b></u> Machine Learning, Data Analysis, Data Visualisation, SQL, Data Structures and Algorithms
+• <b><u>Interests:</b></u> Machine Learning, Data Analysis, Data Visualisation, SQL, Data Structures and Algorithms
 
 <hr>
 
 <h3 align="center">
 📅 Hobbies </h3>
 <p align="left">
-* Playing Volleyball
+• Playing Volleyball
   <br />
-* Coding while watching Netflix
+• Coding while watching Netflix
   <br />
-* Listening to Korean Hip-Hop
+• Listening to Korean Hip-Hop
   <br />
-* Machine Learning and SQL
+• Machine Learning and SQL
   
 <hr>
   
