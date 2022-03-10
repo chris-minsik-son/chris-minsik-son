@@ -39,7 +39,7 @@
 <p align="left">
 • Playing Volleyball &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Coding while listening to Spotify
   <br />
-• Coding while watching Netflix &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• SQL and Machine Learning
+• Coding while watching Netflix &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • SQL and Machine Learning
   
 <hr>
   
