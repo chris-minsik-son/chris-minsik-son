@@ -37,7 +37,7 @@
 <h3 align="center">
 📅 Hobbies </h3>
 <p align="left">
-• Playing Volleyball &nbsp; &nbsp; &nbsp; &nbsp; • Coding while listening to Spotify
+• Playing Volleyball &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Coding while listening to Spotify
   <br />
 • Coding while watching Netflix       • SQL and Machine Learning
   
