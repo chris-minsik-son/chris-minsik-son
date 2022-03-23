@@ -30,7 +30,7 @@
 <br />
 • <b><u>Tools/Version Control:</b></u> Tableau, LaTeX, Git Version Control
 <br />
-• <b><u>Interests:</b></u> Machine Learning, Data Analysis, Data Visualisation, SQL, Data Structures and Algorithms
+• <b><u>Interests:</b></u> SQL, Data Analysis, Data Visualisation, Machine Learning
 
 <hr>
 
