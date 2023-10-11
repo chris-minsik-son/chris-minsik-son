@@ -23,9 +23,9 @@
 <p align="left">
 • <b><u>Languages:</b></u> SQL, Python, R, C/C++, Shell, Perl, Microsoft Excel
 <br />
-• <b><u>Tools/Version Control:</b></u> Tableau, LaTeX, Git Version Control
+• <b><u>Tools/Version Control:</b></u> Tableau, PowerBI, Git Version Control
 <br />
-• <b><u>Interests:</b></u> SQL, Data Analysis, Data Visualisation, Machine Learning
+• <b><u>Interests:</b></u> Machine Learning, Volleyball, Guitar, Gym
 
  ---
 
